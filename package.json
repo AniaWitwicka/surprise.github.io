@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "phaser": "^3.70.0"
+  },
+  "scripts": {
+    "start": "http-server . -o"
+  }
+}
